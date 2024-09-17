@@ -1,0 +1,13 @@
+node_modules
+jspm_packages
+
+.serverless
+
+.webpack
+.build
+.vscode
+.idea
+dist/
+coverage/
+.github
+junit.xml
